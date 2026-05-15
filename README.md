@@ -11,7 +11,5 @@ using Git in real-world scenarios.
 ## Project Structure
 
 The repository initially contains the following files:
-- README.md
-- Notes may be added during development
-
----
+- README.md (main documentation)
+- Notes may be added during development (hotfix update)
